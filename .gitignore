@@ -1,0 +1,6 @@
+# Ignore virtual environment
+pulse_env/
+# Ignore large files
+*.h5
+*.dll
+*.lib
